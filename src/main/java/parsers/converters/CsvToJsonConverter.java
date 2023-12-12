@@ -20,7 +20,7 @@ public class CsvToJsonConverter implements Parser {
 
     @Override
     public void createFile() throws IOException {
-        List<Transaction> transactionList = getNewTransactions(15);// create 5 transactions
+        List<Transaction> transactionList = getNewTransactions(15);// create 15 transactions
         List<String> transactionStringFields = new ArrayList<>();
         for (Transaction transaction : transactionList) {
             transactionStringFields.add(transaction.getIdTransaction());

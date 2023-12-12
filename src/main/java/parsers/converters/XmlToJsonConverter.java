@@ -74,7 +74,7 @@ public class XmlToJsonConverter implements Parser {
         List<Map<String, String>> entries = xmlMapper.readValue(new File(SOURCE_PATH), List.class);
         JSONArray jsonArray = new JSONArray();
         for (Map<String, String> entry : entries) {
-            jsonArray.add(entry); // сохраняется порядок элементов в отличие от JSONObject
+            jsonArray.add(entry); // JSONArray сохраняет порядок элементов в отличие от JSONObject
         }
         try(FileWriter fileWriter = new FileWriter(TARGET_PATH)) {
             fileWriter.write(jsonArray.toJSONString());

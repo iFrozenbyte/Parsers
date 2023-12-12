@@ -1,0 +1,92 @@
+[
+  {
+    "idTransaction": "e9c0c41e-ded2-4732-91d0-e24441f98e3c",
+    "fiscalReceiptNumber": "5393430062",
+    "sum": "11509110497925801",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "af908d5b-ad02-4b4a-82e8-3a2d6d58d86c",
+    "fiscalReceiptNumber": "8616122628",
+    "sum": "516575242309816577",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "f347db0f-7f47-4301-af40-4bae5c23b99b",
+    "fiscalReceiptNumber": "3647405904",
+    "sum": "766373640601959681",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "7c10d6c3-ffcb-4737-82fc-149535eaf789",
+    "fiscalReceiptNumber": "1084108279",
+    "sum": "247826510416978561",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "c70d70ea-33a1-4669-9f82-ed611420f621",
+    "fiscalReceiptNumber": "5148548353",
+    "sum": "846079926193235073",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "bff29090-a627-481c-a70e-007fd7bba31d",
+    "fiscalReceiptNumber": "3334308234",
+    "sum": "129850774527151329",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "3c66b120-ea44-4c16-88b3-28d67bab1242",
+    "fiscalReceiptNumber": "7767579020",
+    "sum": "286438017144255553",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "2d63b38a-742e-467f-871c-c16749398f4c",
+    "fiscalReceiptNumber": "8366156364",
+    "sum": "954268343448670977",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "a551fda4-cadb-4269-8dca-2652b04aed19",
+    "fiscalReceiptNumber": "9451557507",
+    "sum": "546094905267375617",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "61e5e601-8c30-437e-87bd-97972b5e7ef6",
+    "fiscalReceiptNumber": "7271223122",
+    "sum": "985165099029640065",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "2fd65d6d-6b84-42c4-939a-9a912cc2dd5c",
+    "fiscalReceiptNumber": "2676127010",
+    "sum": "442356958224186625",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "4cf702ad-e4e5-4d6c-a1f4-4027d47f77cd",
+    "fiscalReceiptNumber": "8623777214",
+    "sum": "407618307626610241",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "121dc8bf-de95-4ce7-80d2-cfbe95029de8",
+    "fiscalReceiptNumber": "6027574741",
+    "sum": "637817522653138561",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "1dc73153-1f49-48e1-979f-e123bf1b2854",
+    "fiscalReceiptNumber": "2931477970",
+    "sum": "469743183667737473",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  },
+  {
+    "idTransaction": "e5a7a704-2a0b-43cc-9334-91f6e6c8e19f",
+    "fiscalReceiptNumber": "7875188834",
+    "sum": "86511606896188081",
+    "operationDate": "Wed Dec 13 00:18:40 MSK 2023"
+  }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<transactions>
+    <transaction>
+        <id>dc18d68d-8be2-4031-a613-23efdded2316</id>
+        <fiscal>9341535390</fiscal>
+        <sum>383720103902006081</sum>
+        <date>Wed Dec 13 00:18:40 MSK 2023</date>
+    </transaction>
+    <transaction>
+        <id>6551dcf0-4ecb-4b0c-aaf8-87859dca0c3e</id>
+        <fiscal>6196926019</fiscal>
+        <sum>544608473087180993</sum>
+        <date>Wed Dec 13 00:18:40 MSK 2023</date>
+    </transaction>
+    <transaction>
+        <id>ec8efbf1-b104-479b-8add-8973f48897a5</id>
+        <fiscal>5290852066</fiscal>
+        <sum>638176857716312193</sum>
+        <date>Wed Dec 13 00:18:40 MSK 2023</date>
+    </transaction>
+</transactions>

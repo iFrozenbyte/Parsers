@@ -1,4 +1,4 @@
-package parsers.csv2json;
+package parsers.businessobjects;
 
 import java.math.BigInteger;
 import java.util.Date;
